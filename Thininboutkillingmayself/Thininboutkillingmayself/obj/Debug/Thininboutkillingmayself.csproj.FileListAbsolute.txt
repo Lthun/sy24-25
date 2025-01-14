@@ -1,0 +1,10 @@
+C:\Users\lthun810\source\repos\Thininboutkillingmayself\Thininboutkillingmayself\bin\Debug\Thininboutkillingmayself.exe.config
+C:\Users\lthun810\source\repos\Thininboutkillingmayself\Thininboutkillingmayself\bin\Debug\Thininboutkillingmayself.exe
+C:\Users\lthun810\source\repos\Thininboutkillingmayself\Thininboutkillingmayself\bin\Debug\Thininboutkillingmayself.pdb
+C:\Users\lthun810\source\repos\Thininboutkillingmayself\Thininboutkillingmayself\obj\Debug\Thininboutkillingmayself.csproj.AssemblyReference.cache
+C:\Users\lthun810\source\repos\Thininboutkillingmayself\Thininboutkillingmayself\obj\Debug\Thininboutkillingmayself.Form1.resources
+C:\Users\lthun810\source\repos\Thininboutkillingmayself\Thininboutkillingmayself\obj\Debug\Thininboutkillingmayself.Properties.Resources.resources
+C:\Users\lthun810\source\repos\Thininboutkillingmayself\Thininboutkillingmayself\obj\Debug\Thininboutkillingmayself.csproj.GenerateResource.cache
+C:\Users\lthun810\source\repos\Thininboutkillingmayself\Thininboutkillingmayself\obj\Debug\Thininboutkillingmayself.csproj.CoreCompileInputs.cache
+C:\Users\lthun810\source\repos\Thininboutkillingmayself\Thininboutkillingmayself\obj\Debug\Thininboutkillingmayself.exe
+C:\Users\lthun810\source\repos\Thininboutkillingmayself\Thininboutkillingmayself\obj\Debug\Thininboutkillingmayself.pdb
